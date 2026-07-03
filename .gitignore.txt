@@ -1,0 +1,22 @@
+# NetBeans / Java
+build/
+dist/
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+
+# Compilados
+*.class
+*.jar
+*.war
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*~
